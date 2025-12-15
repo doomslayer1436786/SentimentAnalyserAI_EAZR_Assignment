@@ -33,3 +33,7 @@ Run the notebook in `notebooks/notebook.ipynb` to generate `.pkl` and `.h5` file
 
 uvicorn src.api.app:app --reload --port 8090
 
+**Step 3: Start Frontend in a new terminal** 
+
+python Frontend\app.py
+
