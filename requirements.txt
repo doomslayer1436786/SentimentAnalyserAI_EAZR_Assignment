@@ -12,3 +12,4 @@ joblib
 nltk
 nest_asyncio
 dill
+flask

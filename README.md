@@ -31,5 +31,5 @@ Run the notebook in `notebooks/notebook.ipynb` to generate `.pkl` and `.h5` file
 
 **Step 2: Start API**
 
-uvicorn src.api.app:app --reload
+uvicorn src.api.app:app --reload --port 8090
 
