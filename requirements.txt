@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+pandas
+numpy
+scikit-learn
+tensorflow
+pydantic
+langchain
+langgraph
+transformers
+joblib
+nltk
+nest_asyncio
+dill
